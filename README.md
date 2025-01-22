@@ -51,7 +51,7 @@ A modern, responsive web application for viewing images and their EXIF metadata.
 
 1. Clone the repository:
    ```bash
-   git clone <[repository-url](https://github.com/Prathuvj/EXIF_Metdata_Viewer/)>
+   git clone https://github.com/Prathuvj/EXIF_Metdata_Viewer.git
    cd image-viewer
    ```
 
