@@ -51,7 +51,7 @@ A modern, responsive web application for viewing images and their EXIF metadata.
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/Prathuvj/EXIF_Metdata_Viewer/)>
    cd image-viewer
    ```
 
@@ -74,7 +74,7 @@ A modern, responsive web application for viewing images and their EXIF metadata.
 
 1. **Upload Images**:
    - Drag and drop images onto the upload area
-   - Click the upload area to open file explorer
+   - Click the upload area to open File Explorer
    - Select multiple files simultaneously
 
 2. **View Images**:
